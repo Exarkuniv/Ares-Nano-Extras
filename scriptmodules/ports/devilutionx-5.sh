@@ -10,23 +10,23 @@
 # https://raw.githubusercontent.com/Exarkuniv/RetroPie-Extra/master/LICENSE
 #
 
-rp_module_id="devilutionx"
+rp_module_id="devilutionx-5"
 rp_module_desc="devilutionx - Diablo Engine"
 rp_module_licence="https://raw.githubusercontent.com/diasurgical/devilutionX/master/LICENSE"
 rp_module_help="Copy your original diabdat.mpq file from Diablo to $romdir/ports/devilutionx."
 rp_module_section="prt"
 rp_module_flags=""
 
-function depends_devilutionx() {
+function depends_devilutionx-5() {
    getDepends cmake g++ libsdl2-mixer-dev libsdl2-ttf-dev libsodium-dev libfmt-dev
 }
 
-function sources_devilutionx() {
+function sources_devilutionx-5() {
     wget "https://github.com/diasurgical/devilutionX/releases/download/1.5.1/devilutionx-linux-aarch64.tar.xz" 
            tar -xvJf $md_build/devilutionx-linux-aarch64.tar.xz
 }
 
-function install_devilutionx() {
+function install_devilutionx-5() {
     dpkg -i ./devilutionx.deb
     md_ret_files=(
           	/devilutionx
@@ -44,7 +44,7 @@ function game_data_diablo() {
     fi
 }
 
-function configure_devilutionx() {
+function configure_devilutionx-5() {
     mkRomDir "ports"
     mkRomDir "ports/devilutionx"
     cp -r "$md_inst/devilutionx.mpq" "$romdir/ports/$md_id"
