@@ -91,18 +91,11 @@ here is what is needed to be added to the ``es_system.cfg`` for things to work o
   </system>
   ```
 
-# Emulationstation-OGA-Theme-Gallery
-Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
-Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery/wiki/FAQ)
-
-Theme's can be downloaded from github or on device through [JohnIrive1433's](https://github.com/JohnIrvine1433) [Thememaster](https://github.com/JohnIrvine1433/ThemeMaster)
-
-Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [dani7959](https://github.com/dani7959), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), [RetroBenny](https://github.com/TheBenny), and [Vidnez](https://github.com/Vidnez/)
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|720x720|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|:-----:
-| [Albedo](https://github.com/mluizvitor/es-theme-albedo)                        | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/albedo.png)|Yes|Yes|Untested|Untested|Untested|
+| [Albedo]()                        | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/albedo.png)|Yes|Yes|Untested|Untested|Untested|
 | [Alekfull-SOLO-ArkOS](https://github.com/AeolusUX/Alekfull-SOLO-ArkOS)         | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/alekfull-solo-arkos.png)|Untested|Yes|Untested|Untested|Untested|
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/arkos-carbon.png)|Yes|Untested|Untested|Untested|Untested|
 | [ARC-S-Theme Remix](https://github.com/Nacurutu/es-theme-ARC-S-Theme-Remix---The-RA-CFW)                   | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/arc-s-theme-remix.png)|Untested|Yes|Untested|Untested|Untested|
